@@ -8,8 +8,6 @@ The aim of this article is to shed light upon how employment and GDP trends have
 
 The data was obtained in the World Bank Global Jobs Indicators Database (JoIn), available in the website https://datacatalog.worldbank.org/dataset/global-jobs-indicators-database. It includes data from 169 countries in the last three decades.
 
-This repository includes 2 files:
+This repository includes one file:
 
 employment_and_wealth_trends.ipynb with the Jupyter Notebook including the full code.
-
-employment_and_wealth_trends.html with the same file in HTML.
