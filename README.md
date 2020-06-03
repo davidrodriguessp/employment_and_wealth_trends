@@ -1,4 +1,4 @@
-# employment_and_wealth_trends
+# Employment and Wealth Trends
 An analysis of how the way employment and wealth are created has been changing in the last three decades.
 
 Author: David Rodrigues.
